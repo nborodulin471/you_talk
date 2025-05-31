@@ -14,7 +14,7 @@ YouTalk — это блог, посвященный психотерапии, с
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/nborodulin471/youtalk 
+   git clone https://github.com/nborodulin471/you_talk 
 
 2. Откройте файлы в браузере:
     * Для просмотра главной страницы блога откройте файл index.html.
